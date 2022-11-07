@@ -1,0 +1,31 @@
+    
+    .foto{
+      border-radius:30px;
+      height:200px;
+    }
+       
+     
+    
+    p{
+   text-align:center;
+    color:White ;
+    font-size:40px;
+    font-family: Courier New;
+    font-style:italic;
+    font-weight: bold;
+  background: #940000;
+   height: 100px;
+    border: solid 10px darkRed;
+   border-radius:30px;
+    }
+   body{
+  background-color:black;
+    text-align:center;
+   }
+  
+   img{
+     height:50px;
+   }   
+   .java{
+     color:white;
+   }
